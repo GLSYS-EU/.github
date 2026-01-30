@@ -1,4 +1,11 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fglsys.eu)](https://glsys.eu)
+![Focus](https://img.shields.io/badge/focus-infrastructure%20%26%20ops-blue)
+![Automation](https://img.shields.io/badge/automation-IaC%20%7C%20CI%2FCD-informational)
+![Open%20Source](https://img.shields.io/badge/open--source-selective-success)
+
+<p align="center">
+  <sub>Pragmatic infrastructure · Automation · Reliable operations</sub>
+</p>
 
 ## 🏢 About us
 
